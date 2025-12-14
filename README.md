@@ -24,10 +24,34 @@
 - 🎯 Frontend Developer from India  
 - 🌱 Currently learning **Full Stack Web Development & DSA**  
 - 🎨 Passionate about **UI/UX design & clean interfaces**  
-- 🧑‍💻 Love building **responsive, user-friendly websites**  
+- 🧑‍💻 Love building **responsive, user-friendly websites**
+-  👨‍💻 All of my projects are available at **[My Portfolio](https://ziyankhan.netlify.app)**
 - 📫 Reach me at: **ziyankhan1363@gmail.com**
 
 ---
+
+
+## 📫 Contact With Me
+
+<p align="left">
+  <a href="mailto:ziyankhan1363@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ziyankhan1363%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ziyankhan.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ziyan-khan-b479332a7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ziyan%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ziyankhan1363" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@ziyankhan1363-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mr__ziyan__khan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@mr__ziyan__khan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+
 
 ## 🛠️ Skills & Tools
 
@@ -51,20 +75,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🌐 Personal Portfolio Website
-- Fully responsive portfolio with modern UI  
-- Light & Dark mode support  
-- Built using HTML, CSS & JavaScript  
-🔗 Live: https://ziyankhan.netlify.app  
-
-### 🛍️ Business Website – HHH Traders
-- Product listing with admin panel (no backend)  
-- Cart system & WhatsApp order integration  
-- Responsive & business-ready UI  
-
----
 
 ## 📊 GitHub Stats
 
