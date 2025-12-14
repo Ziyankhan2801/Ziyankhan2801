@@ -33,8 +33,7 @@
 
 **Frontend:** HTML, CSS, JavaScript  
 **Programming:** C, C++, Java, Python  
-**Tools & Platforms:** Git, GitHub, VS Code, Figma  
-**Currently Learning:** Full Stack Development, DSA  
+**Tools & Platforms:** Git, GitHub, VS Code, Figma    
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
