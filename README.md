@@ -22,8 +22,8 @@
 ## 🚀 About Me
 
 - 🎯 Frontend Developer from India  
-- 🌱 Currently learning **Full Stack Web Development & DSA**  
-- 🎨 Passionate about **UI/UX design & clean interfaces**  
+- 🌱 **Full Stack Web Development & DSA**  
+- 🎨 Passionate about **UI/UX design & Software development**  
 - 🧑‍💻 Love building **responsive, user-friendly websites**
 -  👨‍💻 All of my projects are available at **[My Portfolio](https://ziyankhan.netlify.app)**
 - 📫 Reach me at: **ziyankhan1363@gmail.com**
